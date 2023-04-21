@@ -1,2 +1,2 @@
 # PricingCard
-Ларточка с рекламой. Решение задачи с frontendmentor
+Карточка с рекламой. Решение задачи с frontendmentor
